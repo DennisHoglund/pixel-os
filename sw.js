@@ -1,4 +1,4 @@
-const CACHE = 'pixel-os-v1';
+const CACHE = 'pixel-os-v2';
 const SHELL = ['./', 'index.html', 'app.js', 'manifest.json', 'icon.svg', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
